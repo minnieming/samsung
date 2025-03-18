@@ -1,21 +1,12 @@
 
-## 소모품/액세서리
+
 
 이주영이 만듬 공유되나?
 
-## 가전기기 만들기
-- living_appliance.html
-
-## 주변기기 만들기
-- perpherals_html
 
 ## header
 
 - 나 없으면 아무데도 못 가!
-
-## 가전제품 만들기
- - living_appliance 
-
 
 
 # 삼성전자 사이트 구현하기
@@ -43,8 +34,23 @@
 
 - 13-feat_Smartthings.html 추가
 
+## ai 구독 클럽
+
+- 5-feat_ai-subscribe-club.html 추가
+
+## 가전기기 만들기
+- living_appliance.html
+
+## 주변기기 만들기
+- perpherals_html
+
+## 소모품/액세서리
 
 
+## 가전제품 만들기
+ - living_appliance 
+
+----------------
 ## footer
 
 - 내가 바닥이야!!!
@@ -52,5 +58,8 @@
 - 삼성전자 사이트 구현하기
 
 
+
+
 삼성전자
+
 
