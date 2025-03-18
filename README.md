@@ -1,6 +1,4 @@
 
-이주영이 만듬 공유되나?
-
 ## 가전제품 만들기
  - living_appliance 
 
@@ -25,7 +23,11 @@
 
 ---
 
+삼성전자
 
+## 스마트싱스
+
+- 13-feat_Smartthings.html 추가
 
 
 ## footer
